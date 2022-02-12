@@ -1,6 +1,6 @@
 reset()
 load("binario_exh.sage")
-load("binario_gb.sage")
+load("binario_gb.sage") 
 print '\n'
 
 #input random puzzle
